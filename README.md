@@ -2,4 +2,4 @@
 
 This is a repository for git practice for collaboration.
 
-참고한 책 : 팀 개발을 위한 Git Github 시작하기
+Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
